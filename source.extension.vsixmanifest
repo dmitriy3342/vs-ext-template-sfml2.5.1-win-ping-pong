@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="template-sfml2.5.1-win-ping-pong.ccaca1a4-d032-4709-9f4f-bcff875c43f1" Version="1.0.1" Language="en-US" Publisher="dmitriy3342" />
+        <DisplayName>template-sfml2.5.1-win-ping-pong</DisplayName>
+        <Description xml:space="preserve">Ping Pong with music for Windows.
+This template for simple start in developing on SFML.
+Version SFML: 2.5.1
+Platform toolset: Visual Studio 2017 (v141)</Description>
+        <Icon>Icon.png</Icon>
+        <PreviewImage>PreviewImage.png</PreviewImage>
+        <Tags>C++,SFML,Game,Windows</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Community">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Pro">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Enterprise">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.VC.v141.x86.x64" Version="[17.0.31804.368,18.0)" DisplayName="MSVC v141 - VS 2017 C++ x64/x86 build tools (v14.16)" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.VC.DiagnosticTools" Version="[17.0.31804.368,18.0)" DisplayName="C++ profiling tools" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.Windows10SDK.19041" Version="[17.0.31804.368,18.0)" DisplayName="Windows 10 SDK (10.0.19041.0)" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.VC.ASAN" Version="[17.0.31804.368,18.0)" DisplayName="C++ AddressSanitizer" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.IntelliCode" Version="[17.0.31804.368,18.0)" DisplayName="IntelliCode" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.VC.Redist.14.Latest" Version="[17.0.31804.368,18.0)" DisplayName="C++ 2022 Redistributable Update" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.Windows10SDK" Version="[17.0.31804.368,18.0)" DisplayName="Windows Universal C Runtime" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.VC.CoreIde" Version="[17.0.31804.368,18.0)" DisplayName="C++ core features" />
+    </Prerequisites>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\template-sfml2.5.1-win-ping-pong.zip" />
+    </Assets>
+</PackageManifest>
