@@ -19,8 +19,8 @@
     <ProjectGuid>{90A22BAC-92E7-4BA6-A157-41098A890C15}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>vsix_vs_template</RootNamespace>
-    <AssemblyName>vsix-vs-template</AssemblyName>
+    <RootNamespace>vsix_vs_template_sfml251_win_ping_pong</RootNamespace>
+    <AssemblyName>vs-template-sfml2.5.1-win-ping-pong</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>true</IncludeAssemblyInVSIXContainer>

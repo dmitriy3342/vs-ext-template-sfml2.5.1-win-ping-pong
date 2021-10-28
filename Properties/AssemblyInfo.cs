@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("vsix_vs_template_sfml2.5.1_win_ping_pong")]
+[assembly: AssemblyTitle("vsix_vs_template_sfml251_win_ping_pong")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("vsix_vs_template_sfml2.5.1_win_ping_pong")]
+[assembly: AssemblyCompany("dmitriy3342")]
+[assembly: AssemblyProduct("vsix_vs_template_sfml251_win_ping_pong")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
