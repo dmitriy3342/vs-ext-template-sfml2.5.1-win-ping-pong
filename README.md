@@ -6,6 +6,8 @@ Extension for Visual Studio with template
  <img src="https://raw.githubusercontent.com/dmitriy3342/vs-template-sfml2.5.1-win-ping-pong/main/docs/SFML_LOGO.png" width="50" height="50">
  
  [Download Extension on VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=AngaldSoft.templatesfml251winpingpong)
+
+ [<img src="docs/open_marketplace.png" width="100" height="100">](https://marketplace.visualstudio.com/items?itemName=AngaldSoft.templatesfml251winpingpong)
  
  ## You need:
  #### 1. Install extension
@@ -25,5 +27,7 @@ Extension for Visual Studio with template
 ## Template in Visual Studio
 ![](https://raw.githubusercontent.com/dmitriy3342/vs-template-sfml2.5.1-win-ping-pong/main/docs/PreviewImage.png "")
 
-### VisualStudio Marketplace
-https://marketplace.visualstudio.com/items?itemName=AngaldSoft.templatesfml251winpingpong
+ [Download Extension on VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=AngaldSoft.templatesfml251winpingpong)
+
+ [<img src="docs/open_marketplace.png" width="100" height="100">](https://marketplace.visualstudio.com/items?itemName=AngaldSoft.templatesfml251winpingpong)
+ 
